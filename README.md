@@ -4,7 +4,7 @@ PAID TOOLS
 
 
 
-<h1 align="center"> [MR.AKING]</h1>
+<h1 align="center"> [MR.ZAHID KING]</h1>
 
 <h2 align="center">  FB CLONING TOOL </h2>
 
