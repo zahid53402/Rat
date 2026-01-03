@@ -29,4 +29,4 @@ PAID TOOLS
 
 
  ___This Tools is Paid___</br>
- [![Whatsapp](https://whatsapp.com/channel/0029Vb75kzx5Ejy3e7nLHs0p)]([https://wa.me/+923237528063](https://wa.me/+923268967223))
+ [![Whatsapp](https://whatsapp.com/channel/0029Vb75kzx5Ejy3e7nLHs0p)](https://wa.me/+923268967223)
