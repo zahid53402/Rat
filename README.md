@@ -1,6 +1,6 @@
 # ZAHID KING
 PAID TOOLS
-<b></b> </br> <br>[![Github](https://img.shields.io/badge/Github-Mr.AKING-dimgray?style=flat-square&logo=github)](https://github.com/AKING110)<br> [![Facebook](https://img.shields.io/badge/Facebook-AKING-blue?style=flat-square&logo=facebook)](https://www.facebook.com/MR.AKING.07)<br> [![Whatsapp](https://img.shields.io/badge/Whatsapp-AKING-deepgreen?style=flat-square&logo=whatsapp)](https://wa.me/+923237528063)
+<b></b> </br> <br>[![Github](https://github.com/zahid53402/Rat.git)](https://github.com/AKING110)<br> [![Facebook](https://www.facebook.com/share/1JVgQ4Qnre/)](https://www.facebook.com/share/1JVgQ4Qnre/)<br> [![Whatsapp](https://whatsapp.com/channel/0029Vb75kzx5Ejy3e7nLHs0p)](https://wa.me/+923268967223)
 
 
 
@@ -22,11 +22,11 @@ PAID TOOLS
 - `pip install mechanize`
 - `pip install bs4`
 - `rm -rf AKING`
-- `git clone --depth=1 https://github.com/AKING110/AKING.git`
+- `git clone --depth=1 https://github.com/zahid53402/Rat.git`
 - `cd AKING`
 - `python AKING.py`
 
 
 
  ___This Tools is Paid___</br>
- [![Whatsapp](https://img.shields.io/badge/Whatsapp-AKING-deepgreen?style=flat-square&logo=whatsapp)](https://wa.me/+923237528063)
+ [![Whatsapp](https://whatsapp.com/channel/0029Vb75kzx5Ejy3e7nLHs0p)]([https://wa.me/+923237528063](https://wa.me/+923268967223))
